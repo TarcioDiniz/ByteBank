@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj": {}
+    "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj": {
+    "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "projectUniqueName": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
         "projectName": "ByteBank",
-        "projectPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
+        "projectPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank\\ByteBank.csproj",
         "packagesPath": "C:\\Users\\tarci\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\obj\\",
+        "outputPath": "C:\\Users\\tarci\\OneDrive\\Documentos\\C#\\ByteBank\\ByteBank\\ByteBank\\ByteBank\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tarci\\AppData\\Roaming\\NuGet\\NuGet.Config"
